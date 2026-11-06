@@ -6,7 +6,7 @@
 - Mes forces : générer de idées de comcepts
     - Exemple : J'en fais un passe temps de dessin
 - Mes faiblesses ou points à améliorer : manque de planification dans mes projets
-    - Exemple : quand je dessine je go with the flow
+    - Exemple : quand je dessine j'aiprovise
 - Seul(e) ou en équipe : seul
     - Pourquoi et exemple : J'Aime les idées que je trouve moi-même et j'ai par que mon coéquipier ne veuille pas les faire
 - Plutôt technique ou créatif : créatif
